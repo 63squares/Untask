@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Untask</string>
+    <string name="action_signin">Sign in</string>
+    <string name="action_mobile">Web View</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_mobile">Untask</string>
+
+</resources>
